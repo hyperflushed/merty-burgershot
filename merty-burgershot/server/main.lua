@@ -15,7 +15,7 @@ AddEventHandler('ev-blackmarket:makeorder', function(data)
     end
 end)
 
-RegisterServerEvent('merty:esyasil')
+RegisterServerEvent('merty:esyaekle')
 AddEventHandler('merty:esyasil', function(item, count)
   local player = ESX.GetPlayerFromId(source)
   player.addInventoryItem(item, count)
