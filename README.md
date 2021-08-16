@@ -1,3 +1,3 @@
 # merty-burgershot
 
-edited from ev-blackmarket. no heavy edited lol
+edited from ev-blackmarket... heavy edited lol
